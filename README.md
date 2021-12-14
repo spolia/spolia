@@ -30,12 +30,9 @@ Working 4+ years in the software industry, I am passionate about the fintech ind
 
 
 
-
-
-
 ❤️ Let's get connected:
 --------------------------------------------------------
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/brennankbrown/) [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:mail@brennanbrown.ca)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayipolia/)](https://www.linkedin.com/in/sayipolia/) [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sayipolia@gmail.com)](mailto:sayipolia@gmail.com)
 
 
 
