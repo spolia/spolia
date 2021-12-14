@@ -24,9 +24,9 @@ Working 4+ years in the software industry, I am passionate about the fintech ind
 
 ### 💼   Working Experience
 
-- Software Engineer in [MercadoLibre](www.mercadopago.com.ar), Octubre 2019 - Present. 
+- Software Engineer in [MercadoLibre](www.mercadopago.com.ar), October 2019 - Present. 
 
-- Software Engineer in [Oracle](www.oracle.com), Octubre 2018 - Octubre 2019.
+- Software Engineer in [Oracle](www.oracle.com), October 2018 - October 2019.
 
 
 
