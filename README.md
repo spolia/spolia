@@ -1,3 +1,6 @@
+![Sayi_Github_Banner](https://user-images.githubusercontent.com/42306516/150701962-d4a2da6c-c579-4dcd-8f4b-b8a8c087feb0.png)
+
+
 ### Hey, there! 👋 👩🏻‍💻
 
 I’m Sayi, a Senior Backend Engineer with focus on applying the best practices to write simple, easy to maintain, and testable code. 
