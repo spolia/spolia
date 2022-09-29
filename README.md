@@ -27,7 +27,9 @@ Working 4+ years in the software industry, I am passionate about the fintech ind
 
 ### 💼   Working Experience
 
-- Software Engineer in [MercadoLibre](www.mercadopago.com.ar), October 2019 - Present. 
+- Software Engineer in [Ripio](www.ripio.com), May 2022 - Present. 
+
+- Software Engineer in [MercadoLibre](www.mercadopago.com.ar), October 2019 - May 2022. 
 
 - Software Engineer in [Oracle](www.oracle.com), October 2018 - October 2019.
 
