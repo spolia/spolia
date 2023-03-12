@@ -1,4 +1,4 @@
-![Sayi_Github_Banner](https://user-images.githubusercontent.com/42306516/150701962-d4a2da6c-c579-4dcd-8f4b-b8a8c087feb0.png)
+![Sayi_Github_Banner](banner-photo.png)
 
 
 ### Hey, there! 👋 👩🏻‍💻
