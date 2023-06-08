@@ -1,4 +1,4 @@
-<> ![Sayi_Github_Banner](banner-photo.png)
+[//]: <> ![Sayi_Github_Banner](banner-photo.png)
 
 
 ### Hey, there! 👋 👩🏻‍💻
