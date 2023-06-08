@@ -10,8 +10,9 @@ Currently: 🚀 Web3 Builder | solidity | Go
 
 ### 🛠️  Skills
 ![Go](http://img.shields.io/badge/-Go-33C7FF?style=flat-square&logo=go&logoColor=ffffff)
+![Solidity](https://img.shields.io/badge/-solidity-white?style=flat-square&logo=solidity&logoColor=yellow)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Javascrypt](http://img.shields.io/badge/-JavaScrypt-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Jira](https://img.shields.io/badge/-Jira-white?style=flat-square&logo=jira&logoColor=blue)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
