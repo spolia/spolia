@@ -3,6 +3,8 @@
 I’m Sayi, a Senior Backend Engineer with focus on applying the best practices to write simple, easy to maintain, and testable code. 
 Working 5+ years in the software industry, I am passionate about the fintech industry and information technology services. Always keen to learn more and very interested in system design and architecture.
 
+Currently: 🚀 Web3 Builder | solidity | Go 
+
 ---------------------------------------------------------------
 
 
@@ -17,8 +19,7 @@ Working 5+ years in the software industry, I am passionate about the fintech ind
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
+
 
 
 
@@ -35,7 +36,3 @@ Working 5+ years in the software industry, I am passionate about the fintech ind
 ❤️ Let's get connected:
 --------------------------------------------------------
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayipolia/)](https://www.linkedin.com/in/sayipolia/) [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sayipolia@gmail.com)](mailto:sayipolia@gmail.com)
-
-
-
-![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
