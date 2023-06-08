@@ -3,7 +3,7 @@
 I’m Sayi, a Senior Backend Engineer with focus on applying the best practices to write simple, easy to maintain, and testable code. 
 Working 5+ years in the software industry, I am passionate about the fintech industry and information technology services. Always keen to learn more and very interested in system design and architecture.
 
-Currently: 🚀 Web3 Builder | solidity | Go 
+Currently: 🚀 Web3 Builder | Solidity | Go 
 
 ---------------------------------------------------------------
 
