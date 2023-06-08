@@ -1,6 +1,3 @@
-[//]: <> ![Sayi_Github_Banner](banner-photo.png)
-
-
 ### Hey, there! 👋 👩🏻‍💻
 
 I’m Sayi, a Senior Backend Engineer with focus on applying the best practices to write simple, easy to maintain, and testable code. 
