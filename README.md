@@ -26,7 +26,9 @@ Currently: 🚀 Web3 Builder | Solidity | Go
 
 ### 💼   Working Experience
 
-- Software Engineer in [Ripio](https://www.ripio.com/), May 2022 - Present. 
+- Software Engineer in [Stori](https://www.storicard.com/en), October 2023 - Present. 
+
+- Software Engineer in [Ripio](https://www.ripio.com/), May 2022 - October 2023. 
 
 - Software Engineer in [MercadoLibre](https://www.mercadopago.com.ar), October 2019 - May 2022. 
 
