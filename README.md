@@ -1,6 +1,6 @@
 ### Hey, there! 👋 👩🏻‍💻
 
-Senior Software Engineer with 5+ years of experience in backend development, cloud infrastructure, and fintech solutions. Specialized in building scalable, secure, and resilient systems using Go (Golang), AWS, and containerized architectures. Passionate about clean code, system design, and automation. Proven ability to work in agile, cross-functional teams and deliver high-impact, business-critical applications with a strong focus on performance and reliability. 🚀
+Senior Software Engineer with 6+ years of experience in backend development, cloud infrastructure, and fintech solutions. Specialized in building scalable, secure, and resilient systems using Go (Golang), AWS, and containerized architectures. Passionate about clean code, system design, and automation. 🚀
 
 ---------------------------------------------------------------
 
@@ -23,13 +23,15 @@ Senior Software Engineer with 5+ years of experience in backend development, clo
 
 ### 💼   Working Experience
 
-- Software Engineer in [Stori](https://www.storicard.com/en), October 2023 - Present. 
+- Senior Software Engineer in [D-Local](https://www.dlocal.com/en/), March 2026 - Present.
+
+- Senior Software Engineer in [Stori](https://www.storicard.com/en), October 2023 - August 2025. 
 
 - Software Engineer in [Ripio](https://www.ripio.com/), May 2022 - October 2023. 
 
 - Software Engineer in [MercadoLibre](https://www.mercadopago.com.ar), October 2019 - May 2022. 
 
-- Software Engineer in [Oracle](https://www.oracle.com), October 2018 - October 2019.
+- Solution Engineer in [Oracle](https://www.oracle.com), October 2018 - October 2019.
 
 
 
