@@ -25,7 +25,7 @@ Senior Software Engineer with 6+ years of experience in backend development, clo
 
 - Senior Software Engineer in [D-Local](https://www.dlocal.com/en/), March 2026 - Present.
 
-- Senior Software Engineer in [Stori](https://www.storicard.com/en), October 2023 - August 2025. 
+- Senior Software Engineer in [Stori](https://www.storicard.com/en), October 2023 - March 2026. 
 
 - Software Engineer in [Ripio](https://www.ripio.com/), May 2022 - October 2023. 
 
